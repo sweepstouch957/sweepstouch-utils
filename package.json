@@ -1,14 +1,19 @@
 {
   "name": "@sweepstouch/shared-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Funciones utilitarias compartidas como paginación",
   "main": "utils/pagination.js",
   "type": "module",
-  "keywords": ["utils", "pagination", "shared", "nodejs"],
+  "keywords": [
+    "utils",
+    "pagination",
+    "shared",
+    "nodejs"
+  ],
   "author": "Sweepstouch Team",
   "license": "MIT",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/sweepstouch957/sweepstouch-utils"
-}
+    "type": "git",
+    "url": "https://github.com/sweepstouch957/sweepstouch-utils"
+  }
 }

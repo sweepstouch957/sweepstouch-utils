@@ -4,6 +4,9 @@
   "description": "Funciones utilitarias compartidas como paginación",
   "main": "utils/index.js",
   "type": "module",
+  "dependencies": {
+    "libphonenumber-js": "^1.9.49"
+  },
   "keywords": [
     "utils",
     "pagination",

@@ -1,6 +1,6 @@
 {
   "name": "@sweepstouch/shared-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Funciones utilitarias compartidas como paginación",
   "main": "utils/index.js",
   "type": "module",
